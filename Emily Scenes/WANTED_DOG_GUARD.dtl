@@ -1,0 +1,19 @@
+# Guard talking close to the statue
+Hey there buddy, don’t get too close.
+No one’s allowed to touch or climb the statue.
+- Bark
+	# Bark sound
+	[sound volume="0.0"]
+What?
+- Bark
+	# Bark sound
+	[sound volume="0.0"]
+You’re sure you saw that?
+- Bark
+	# Bark sound
+	[sound volume="0.0"]
+I can’t believe it.
+Defamation of the king, right to the left over there.
+The culprit must be invisible. That dastardly genius.
+Thank you for telling me, I’ll get on it right away!
+# The screen goes dark and the guard is gone

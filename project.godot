@@ -45,11 +45,16 @@ directories/dch_directory={
 "blue_brian": "res://npc/test_npc/blue_brian.dch"
 }
 directories/dtl_directory={
+"WANTED_DOG_ADDITIONAL_ENDING_DIALOGUE": "res://Emily Scenes/WANTED_DOG_ADDITIONAL_ENDING_DIALOGUE.dtl",
+"WANTED_DOG_GUARD": "res://Emily Scenes/WANTED_DOG_GUARD.dtl",
+"WANTED_DOG_STATUE": "res://Emily Scenes/WANTED_DOG_STATUE.dtl",
+"WANTERD_DOG_ENDING": "res://Emily Scenes/WANTED_DOG_ENDING.dtl",
 "blue_brian_hello": "res://npc/test_npc/blue_brian_hello.dtl",
 "demo3Cats": "res://dialogic_example/example_timelines/demo3Cats.dtl",
 "demoTimeline": "res://dialogic_example/example_timelines/demoTimeline.dtl",
 "demoTimeline2": "res://dialogic_example/example_timelines/demoTimeline2.dtl",
-"demoTimeline3": "res://dialogic_example/example_timelines/demoTimeline3.dtl"
+"demoTimeline3": "res://dialogic_example/example_timelines/demoTimeline3.dtl",
+"timeline": "res://Emily Scenes/WANTED_DOG_INTRO.dtl"
 }
 glossary/default_case_sensitive=true
 layout/style_list=["res://dialogic_example/NarratorStyle.tres", "res://dialogic_example/ExampleDialogueStyleVN.tres", "res://dialogic_example/ExampleDialogueStyleBubble.tres", "res://dialogic_example/ExampleDialogueStyleBox.tres"]
